@@ -1,0 +1,2 @@
+# Heart_rate_blood_oxygen_detection_Android_APP
+ APP基于stm32，esp8266和MAX30102传感器等硬件。
